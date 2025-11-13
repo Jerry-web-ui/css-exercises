@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.black {
+        background-color: black;
+        color: white;
+}
+.yellow {
+       background-color: yellow
+}
+.black, .yellow {
+        font-size: 28px;
+        font-weight: 'Helvetica', 'Times New Roma','sans-serif' ;
+
+}
